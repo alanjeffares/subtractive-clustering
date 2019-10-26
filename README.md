@@ -16,4 +16,4 @@ My implementation of the subtractive clustering algorithm as described in Sheng-
 * `evaluation.py` - Evaluation of algorithm on synthetic `data.csv`.
 
 ## Usage
-Navigate to the repository folder and simply run `python evaluation.py` on the command line.
+Navigate to the repository folder and run `python evaluation.py` on the command line.
