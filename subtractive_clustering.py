@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-data = pd.read_csv("/Users/ajeffares/Desktop/data.csv", header=None)
+data = pd.read_csv("data.csv", header=None)
 sample_data = data.copy() #working with full data
 data.describe()
 data.iloc[:200,:].describe()
